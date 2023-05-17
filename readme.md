@@ -1,4 +1,4 @@
-Ethereum Smart Contracts Interface Generator
+Ethereum Smart Contract Interface Generator
 ============================================
 
 NPM command that generates an interface from ABIs to interact with the **Ethereum smart contracts**.
